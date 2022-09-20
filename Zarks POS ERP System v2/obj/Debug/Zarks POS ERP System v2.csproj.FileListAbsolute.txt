@@ -1,0 +1,45 @@
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.exe.config
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.exe
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.pdb
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\bin\Debug\EPPlus.dll
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\bin\Debug\EPPlus.xml
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.Properties.Resources.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.GenerateResource.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.CoreCompileInputs.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.CopyComplete
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.exe
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.pdb
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csprojAssemblyReference.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.SetupForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.LoginForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.GenerationForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.exe.config
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.exe
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.pdb
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\bin\Debug\EPPlus.dll
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\bin\Debug\EPPlus.xml
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csprojAssemblyReference.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.GenerationForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.LoginForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.Properties.Resources.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.SetupForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.GenerateResource.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.CoreCompileInputs.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.CopyComplete
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.exe
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Deployment\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.pdb
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.exe.config
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.exe
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\bin\Debug\Zarks POS ERP System v2.pdb
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\bin\Debug\EPPlus.dll
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\bin\Debug\EPPlus.xml
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csprojAssemblyReference.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.GenerationForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.LoginForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.Properties.Resources.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks_POS_ERP_System_v2.SetupForm.resources
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.GenerateResource.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.CoreCompileInputs.cache
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.csproj.CopyComplete
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.exe
+E:\Store Client Files\Zarks Files\Zarks POS ERP System v2 - Modified\Zarks POS ERP System v2\obj\Debug\Zarks POS ERP System v2.pdb
